@@ -1,0 +1,20 @@
+img{
+    width: 900px;
+    height: 450px;
+    margin-top: 90px;
+}
+
+body{
+    line-height: inherit;
+    background-color: green;
+}
+h1{
+    color: black;
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: white;
+    margin-top: 100px;
+    cursor: default;
+}
